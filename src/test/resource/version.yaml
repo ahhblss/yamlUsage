@@ -1,0 +1,14 @@
+!com.lss.yaml.VersionHistory
+lastPublishTime : 2017-03-15
+versions:
+  - !com.lss.yaml.Verson
+    version : v1
+    update : true
+    force : false
+    content :
+      - 添加模块1
+      - 添加模块1
+      - 添加模块1
+  - !com.lss.yaml.Verson
+    version : v1.1
+    update : false
